@@ -43,5 +43,9 @@ public abstract class Contribuyente {
     public String getCuit() {
         return cuit;
     }
+
+    public Long getId() {
+        return id;
+    }
     
 }
